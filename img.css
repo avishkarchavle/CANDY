@@ -1,0 +1,34 @@
+ img {
+     width: 30%;
+     height: 30%;
+     margin: 1.4%;
+     border: 1px solid black;
+     transition: margin-bottom 3px 2s;
+ }
+ 
+ img:hover {
+     border-radius: 39px;
+     border: 1px solid #fff;
+     box-shadow: 5px 5px 5px 5px #0ff;
+     margin-bottom: 8px;
+ }
+ 
+ * {
+     background-color: black;
+ }
+ 
+ h1 {
+     color: white;
+     border: 2px solid green;
+     padding: 7px;
+     background-color: black;
+     box-shadow: 3px 3px 3px 3px green;
+ }
+ 
+ button {
+     border: none;
+ }
+ 
+ br {
+     color: white;
+ }
